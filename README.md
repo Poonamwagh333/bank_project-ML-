@@ -1,1 +1,1 @@
-# bank_project-ML-
+This is an project in which the term deposite is subcribed by client or not decided. It consist of one bank.csv file uploaded and then apply the various methods to find the percentage regarding to teerm.
